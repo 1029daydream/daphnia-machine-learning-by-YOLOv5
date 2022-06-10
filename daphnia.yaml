@@ -1,0 +1,7 @@
+names:
+- daphnia
+nc: 1
+path: ../Daphnia_dataset
+train: ../Daphnia_dataset/train.txt
+val: val.txt
+valid: ../Daphnia_dataset/val.txt
