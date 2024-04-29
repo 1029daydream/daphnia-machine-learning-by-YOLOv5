@@ -1,6 +1,4 @@
 # daphnia-machine-learning-by-YOLOv5
-주피터 말고 Colab 사용하세요.
-
 런타임 실행전에 Daphnia_dataset.zip 드래그 해서 Colab에 업로드 하기.
 
 Colab 런타임 -> 런타임 유형 변경 -> GPU
